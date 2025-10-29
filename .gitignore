@@ -2,3 +2,5 @@
 .gradio
 dataset
 predictions
+train_test_dir
+unseen.png
